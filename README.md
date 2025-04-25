@@ -1,4 +1,5 @@
 Made for NOIT 2023-2024 won 7th place.
+Here is it the server: https://github.com/Kartofi/Jungle-Warfare-Server
 
 # Images
 
